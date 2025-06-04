@@ -6,6 +6,8 @@ import 'izitoast/dist/css/iziToast.min.css';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
+
+
 const loader = document.querySelector('.loader-js');
 const form = document.querySelector('.form-js');
 const input = document.querySelector('.input-js');
